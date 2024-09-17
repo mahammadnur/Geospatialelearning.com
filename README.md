@@ -1,1 +1,1 @@
-# Geospatialelearning.com
+# Geospatialelearning
